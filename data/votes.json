@@ -1,0 +1,106 @@
+{
+  "leaderboard": [
+    {
+      "modelId": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+      "name": "Nemotron 3 Nano Omni Reasoning (Free)",
+      "provider": "Nvidia",
+      "elo": 1290,
+      "votes": 380,
+      "wins": 245,
+      "losses": 105,
+      "ties": 30,
+      "winRate": 64.5,
+      "category": "reasoning"
+    },
+    {
+      "modelId": "google/gemma-4-31b-it:free",
+      "name": "Gemma 4 31B IT (Free)",
+      "provider": "Google",
+      "elo": 1258,
+      "votes": 396,
+      "wins": 248,
+      "losses": 121,
+      "ties": 27,
+      "winRate": 62.6,
+      "category": "general"
+    },
+    {
+      "modelId": "nvidia/nemotron-3.5-lightning:free",
+      "name": "Nemotron 3.5 Lightning (Free)",
+      "provider": "Nvidia",
+      "elo": 1292,
+      "votes": 412,
+      "wins": 254,
+      "losses": 130,
+      "ties": 28,
+      "winRate": 61.7,
+      "category": "general"
+    },
+    {
+      "modelId": "cohere/north-mini-code:free",
+      "name": "Cohere North Mini Code (Free)",
+      "provider": "Cohere",
+      "elo": 1230,
+      "votes": 311,
+      "wins": 185,
+      "losses": 101,
+      "ties": 25,
+      "winRate": 59.5,
+      "category": "coding"
+    },
+    {
+      "modelId": "google/gemma-4-26b-a4b-it:free",
+      "name": "Gemma 4 26B A4B IT (Free)",
+      "provider": "Google",
+      "elo": 1210,
+      "votes": 270,
+      "wins": 145,
+      "losses": 105,
+      "ties": 20,
+      "winRate": 53.7,
+      "category": "general"
+    },
+    {
+      "modelId": "liquid/lfm-3-1.7b:free",
+      "name": "LiquidAI LFM3 1.7B (Free)",
+      "provider": "Liquid",
+      "elo": 1180,
+      "votes": 260,
+      "wins": 130,
+      "losses": 112,
+      "ties": 18,
+      "winRate": 50,
+      "category": "general"
+    },
+    {
+      "modelId": "recursive/flint-v1.0:free",
+      "name": "Recursive Flint v1.0 (Free)",
+      "provider": "Recursive",
+      "elo": 1150,
+      "votes": 210,
+      "wins": 95,
+      "losses": 100,
+      "ties": 15,
+      "winRate": 45.2,
+      "category": "general"
+    }
+  ],
+  "recentVotes": [
+    {
+      "id": "vote_1794366693723_iim1e",
+      "modelA": "nvidia/nemotron-3.5-lightning:free",
+      "modelB": "google/gemma-4-31b-it:free",
+      "winner": "modelA",
+      "promptSummary": "Explain quantum computing",
+      "timestamp": 1794366693723
+    },
+    {
+      "id": "vote_1794369137990_1on1c",
+      "modelA": "nvidia/nemotron-3.5-lightning:free",
+      "modelB": "cohere/north-mini-code:free",
+      "winner": "modelA",
+      "promptSummary": "Explain quantum computing simply",
+      "timestamp": 1794369137990
+    }
+  ]
+}

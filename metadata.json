@@ -1,0 +1,6 @@
+{
+  "name": "Arena X — AI Model Battle",
+  "description": "Experience the frontier of AI models. Compare, battle, vote on anonymous model outputs, and explore LLM rankings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
